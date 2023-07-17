@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snc_office_sup_0.Audience for app office-supply-request</api_name>
+        <description/>
+        <name>Audience for app office-supply-request</name>
+        <roles>7f5b53a4010431107f44717ef82cd05c,3f5b53a4010431107f44717ef82cd060</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 17:56:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3f758f0014831107f44717ef82cd020</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app office-supply-request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
+        <sys_update_name>sys_ux_applicability_e3f758f0014831107f44717ef82cd020</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 17:56:48</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

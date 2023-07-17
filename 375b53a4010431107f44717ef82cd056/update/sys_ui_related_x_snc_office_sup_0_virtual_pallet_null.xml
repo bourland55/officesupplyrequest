@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_office_sup_0_virtual_pallet" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Virtual Pallet - Default view" name="x_snc_office_sup_0_virtual_pallet" related_list="NULL" sys_domain="global" view="Default view">05b6a3e0014431107f44717ef82cd085</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 14:21:27</sys_created_on>
+            <sys_id>81b6e724014431107f44717ef82cd0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 14:21:27</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Virtual Pallet - Default view" name="x_snc_office_sup_0_virtual_pallet" related_list="NULL" sys_domain="global" view="Default view">05b6a3e0014431107f44717ef82cd085</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_snc_office_sup_0_individual_orders.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 14:21:27</sys_created_on>
+            <sys_id>85b6e724014431107f44717ef82cd0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 14:21:27</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Virtual Pallet - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_office_sup_0_virtual_pallet</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 14:21:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05b6a3e0014431107f44717ef82cd085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Virtual Pallet - Default view</sys_name>
+            <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_office_sup_0_virtual_pallet_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 14:21:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

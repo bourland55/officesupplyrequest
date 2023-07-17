@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e7085cf0014831107f44717ef82cd059" sys_domain="global" table="x_snc_office_sup_0_individual_orders" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_office_sup_0_individual_orders</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 17:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7085cf0014831107f44717ef82cd059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_office_sup_0_individual_orders</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e7085cf0014831107f44717ef82cd059</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 17:57:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace-x snc office sup 0-0" name="Workspace-x_snc_office_sup_0-0">1ef718f068483110d123dbdea293cd34</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

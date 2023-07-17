@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Office Supply Request AI Search Configuration">1ef718f00e48311073132636182fbd33</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 17:56:46</sys_created_on>
+        <sys_id>9af718f08548311020f1eb388f4d2a34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_9af718f08548311020f1eb388f4d2a34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 17:56:46</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition display_value="">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>Office Supply Request AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="Office Supply Request search profile">92f718f0d34831105b345b5baa63d038</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 17:56:46</sys_created_on>
+        <sys_id>1ef718f00e48311073132636182fbd33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office Supply Request AI Search Configuration</sys_name>
+        <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
+        <sys_update_name>sys_search_context_config_1ef718f00e48311073132636182fbd33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 17:56:46</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=1ef718f00e48311073132636182fbd33"/>
+</record_update>
