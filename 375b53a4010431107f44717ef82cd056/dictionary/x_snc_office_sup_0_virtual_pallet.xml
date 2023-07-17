@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ef742760014431107f44717ef82cd094" extends="task" label="Virtual Pallet" max_length="40" name="x_snc_office_sup_0_virtual_pallet" text_index="true" type="collection">
+        <element label="Holding Cost Field" max_length="40" name="holding_cost_field" type="string"/>
+        <element label="New Individual Cost" max_length="40" name="new_individual_cost" type="string"/>
+        <element label="Total Cost" max_length="40" name="total_cost" type="string"/>
+    </element>
+</database>

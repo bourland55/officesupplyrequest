@@ -20,7 +20,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 15:01:34</sys_updated_on>
         <table/>
-        <ui_policy display_value="Office Supplies UI policy">35afa7ec014431107f44717ef82cd0f7</ui_policy>
+        <ui_policy display_value="Make 'address' mandatory &amp; visible depending on 'ship_to_location'">35afa7ec014431107f44717ef82cd0f7</ui_policy>
         <variable>address</variable>
         <variable_set/>
         <visible>true</visible>

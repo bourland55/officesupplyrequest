@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="requested_for" table="x_snc_office_sup_0_individual_orders">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-12 13:58:06</sys_created_on>
-        <sys_id>c351ab6c010431107f44717ef82cd02b</sys_id>
         <sys_name>Requested For</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>

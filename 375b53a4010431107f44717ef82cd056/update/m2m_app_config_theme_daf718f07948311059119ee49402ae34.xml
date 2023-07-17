@@ -18,6 +18,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:56:46</sys_updated_on>
         <theme display_value="Starter Workspace Theme">56f718f0ea483110f780ee3b6ec02a33</theme>
+        <u_original_theme/>
         <ux_app_configuration display_value="Office Supply Request Config">1ef718f07d483110b78e531285483c38</ux_app_configuration>
     </m2m_app_config_theme>
 </record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Individual Orders</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Individual Orders</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0c2e541a47312110412ec035126d4380</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 14:09:16</sys_created_on>
+        <sys_id>97d315de4784f5d0412ec035126d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Individual Orders</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
+        <sys_update_name>sys_wizard_answer_97d315de4784f5d0412ec035126d43b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 14:09:16</sys_updated_on>
+        <table/>
+        <target_url>x_snc_office_sup_0_individual_orders.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

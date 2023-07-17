@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fb73d87c010831107f44717ef82cd0fc</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Check total cost on virtual pallet</sys_name>
         <sys_overrides/>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
         <sys_update_name>sys_hub_flow_fb73d87c010831107f44717ef82cd0fc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-12 18:43:17</sys_updated_on>
+        <sys_updated_on>2023-07-17 14:09:34</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=fb73d87c010831107f44717ef82cd0fc"/>
@@ -1154,11 +1154,11 @@
         <sys_created_on>2023-07-12 17:52:04</sys_created_on>
         <sys_id>0ee61c70014831107f44717ef82cd018</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_fb73d87c010831107f44717ef82cd0fc_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:52:04</sys_updated_on>
         <url/>
@@ -1177,11 +1177,11 @@
         <sys_created_on>2023-07-12 17:52:04</sys_created_on>
         <sys_id>cae61c70014831107f44717ef82cd01c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_fb73d87c010831107f44717ef82cd0fc_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:52:04</sys_updated_on>
         <url/>
@@ -1200,11 +1200,11 @@
         <sys_created_on>2023-07-12 17:52:04</sys_created_on>
         <sys_id>cee61c70014831107f44717ef82cd01f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_fb73d87c010831107f44717ef82cd0fc_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:52:04</sys_updated_on>
         <url/>
@@ -2345,11 +2345,11 @@
         <sys_created_on>2023-07-12 17:52:21</sys_created_on>
         <sys_id>5ef6dc70014831107f44717ef82cd081</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_0af6dc70014831107f44717ef82cd04e_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:52:21</sys_updated_on>
         <url/>
@@ -2368,11 +2368,11 @@
         <sys_created_on>2023-07-12 17:52:21</sys_created_on>
         <sys_id>9ef6dc70014831107f44717ef82cd089</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_0af6dc70014831107f44717ef82cd04e_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:52:21</sys_updated_on>
         <url/>
@@ -2391,11 +2391,11 @@
         <sys_created_on>2023-07-12 17:52:20</sys_created_on>
         <sys_id>d2f6dc70014831107f44717ef82cd06d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_0af6dc70014831107f44717ef82cd04e_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 17:52:20</sys_updated_on>
         <url/>

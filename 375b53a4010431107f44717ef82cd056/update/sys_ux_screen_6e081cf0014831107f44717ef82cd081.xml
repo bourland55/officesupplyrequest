@@ -4,7 +4,7 @@
         <app_config display_value="Office Supply Request Config">1ef718f07d483110b78e531285483c38</app_config>
         <description/>
         <event_mappings>[ ]</event_mappings>
-        <macroponent display_value="Office Supplies">0a081cf0014831107f44717ef82cd053</macroponent>
+        <macroponent display_value="Office Supplies Record Page">0a081cf0014831107f44717ef82cd053</macroponent>
         <macroponent_config>{
   "views" : {
     "type" : "JSON_LITERAL",
@@ -49,7 +49,7 @@
 }</macroponent_config>
         <name>Office Supplies Record Page</name>
         <order>100</order>
-        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition>table=x_snc_office_sup_0_office_supplies</screen_condition>

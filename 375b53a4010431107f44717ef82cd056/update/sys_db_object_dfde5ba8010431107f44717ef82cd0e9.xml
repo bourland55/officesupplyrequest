@@ -9,15 +9,16 @@
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
+        <is_document_table>false</is_document_table>
         <is_extendable>false</is_extendable>
         <label>Individual Orders</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_snc_office_sup_0_individual_orders</name>
-        <number_ref display_value="ORD">1fde9ba8010431107f44717ef82cd009</number_ref>
+        <number_ref display_value="MISIX">1fde9ba8010431107f44717ef82cd009</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">50debf84251311107f44d33d93b59dee</super_class>
+        <super_class display_value="Task" name="task">442e541a47312110412ec035126d4380</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-12 13:47:12</sys_created_on>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="24bbd7a4010431107f44717ef82cd0fe" label="Office Supplies" max_length="40" name="x_snc_office_sup_0_office_supplies" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cost" max_length="40" name="cost" type="decimal"/>
+        <element label="Description" max_length="200" name="description" type="string"/>
+        <element label="Item code" max_length="200" name="item_code" type="string"/>
+        <element display="true" label="Item Name" max_length="40" name="item_name" type="string"/>
+    </element>
+</database>

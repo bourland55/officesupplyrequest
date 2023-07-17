@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>81bbfb6c018431107f44717ef82cd060</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Supply Request update cost field</sys_name>
         <sys_overrides/>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
         <sys_update_name>sys_hub_flow_81bbfb6c018431107f44717ef82cd060</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-12 16:20:26</sys_updated_on>
+        <sys_updated_on>2023-07-17 14:09:32</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=81bbfb6c018431107f44717ef82cd060"/>
@@ -406,11 +406,11 @@
         <sys_created_on>2023-07-12 15:55:15</sys_created_on>
         <sys_id>0b2cb7ac018431107f44717ef82cd03c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_81bbfb6c018431107f44717ef82cd060_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 15:55:15</sys_updated_on>
         <url/>
@@ -429,11 +429,11 @@
         <sys_created_on>2023-07-12 15:55:16</sys_created_on>
         <sys_id>832cb7ac018431107f44717ef82cd040</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_81bbfb6c018431107f44717ef82cd060_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 15:55:16</sys_updated_on>
         <url/>
@@ -826,11 +826,11 @@
         <sys_created_on>2023-07-12 16:13:45</sys_created_on>
         <sys_id>4a60803401c431107f44717ef82cd078</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3d60803401c431107f44717ef82cd050_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 16:13:45</sys_updated_on>
         <url/>
@@ -849,11 +849,11 @@
         <sys_created_on>2023-07-12 16:13:45</sys_created_on>
         <sys_id>4e60803401c431107f44717ef82cd080</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Office Supply Request" source="x_snc_office_sup_0">375b53a4010431107f44717ef82cd056</sys_package>
         <sys_policy/>
         <sys_scope display_value="Office Supply Request">375b53a4010431107f44717ef82cd056</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3d60803401c431107f44717ef82cd050_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 16:13:45</sys_updated_on>
         <url/>
